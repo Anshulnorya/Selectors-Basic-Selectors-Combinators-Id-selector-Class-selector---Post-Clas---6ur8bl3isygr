@@ -95,6 +95,16 @@ li a{
   background-color: aquamarine;
   border-radius: 19%;
 }
+.skills{
+   font-size: 0.75rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: white;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
 
 
 /* right-section */
